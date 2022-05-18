@@ -4,6 +4,6 @@
     "target": "es2020",
     "module": "commonjs",
     "esModuleInterop": true,
-    "allowJs": true
+    // "allowJs": true
   }
 }
